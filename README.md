@@ -241,4 +241,4 @@ This repository serves as the official landing page for Comodo System Cleaner. T
 **Get the most recent version of Comodo System Cleaner today!**
 
 ---
-**Last updated:** 2026-09-16 23:23:34 UTC
+**Last updated:** 2026-09-17 02:24:17 UTC
